@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.jonathan_zollinger
+testFramework: kotest
+sourceLanguage: kotlin
+buildTool: gradle
+features: [app-name, github-workflow-ci, gradle, http-client-test, jackson-databind, kotest, kotlin, kotlin-application, ksp, logback, micronaut-aot, micronaut-build, micronaut-http-validation, netty-server, properties, readme, shade, static-resources]
